@@ -1,0 +1,5 @@
+streamlit_authenticator
+streamlit
+plotly
+pandas
+sklearn
